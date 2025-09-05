@@ -1,0 +1,12 @@
+﻿streamlit
+pandas
+numpy
+scikit-learn
+textblob
+nltk
+spacy
+tqdm
+vaderSentiment
+python-dateutil
+openai
+python-dotenv
