@@ -21,7 +21,7 @@ if not OPENAI_API_KEY:
     st.stop()
 
 # ---------- CONFIG ----------
-CSV_PATH = r"C:\Users\kadir\Desktop\ai-email-assistant\data\urgent_emails.csv"
+CSV_PATH = "data/urgent_emails.csv"
 
 SUPPORT_KEYWORDS = ["support", "help", "query", "request", "issue", "problem", "question", "ticket"]
 URGENCY_KEYWORDS = [
